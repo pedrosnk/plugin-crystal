@@ -28,7 +28,7 @@ $ crystal
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
+[MIT][mit] © [Pedro Medeiros][author] et [al][contributors]
 
 
 [mit]:            https://opensource.org/licenses/MIT
